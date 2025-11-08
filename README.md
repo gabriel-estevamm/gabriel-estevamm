@@ -1,7 +1,5 @@
 # Hi there, I'm Gabriel 👋 
 
-Enthusiast of the best web & mobile development technologies.
-
 I'm Software Engineer and Cybersecurity Researcher, passionate about Development and Hacking. 
 
 ## Check out my Projects
