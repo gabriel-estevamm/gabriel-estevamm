@@ -2,19 +2,19 @@
 
 Enthusiast of the best web & mobile development technologies.
 
-I'm web & software developer and Cybersecurity Analyst, passionate about Development and Hacking. 
+I'm Software Engineer and Cybersecurity Researcher, passionate about Development and Hacking. 
 
 ## Check out my Projects
 
-1. <a href="https://github.com/gabriel-estevam/controle-estoque-java-react" target="_blank"> EasyEstoque.</a>
+1. <a href="https://github.com/gabriel-estevamm/controle-estoque-java-react" target="_blank"> EasyEstoque.</a>
 <br>EasyEstoque is the ideal software for small and micro-enterprises to manage their inventory more easier.<br>
 
-2. <a href="https://github.com/gabriel-estevam/tgi_frontend" target="_blank">Stock Management System.</a><br>
+2. <a href="https://github.com/gabriel-estevamm/tgi_frontend" target="_blank">Stock Management System.</a><br>
 Software developed for Salto City Hall (Public Department) to manage the stock of all regional schools.
 The system brought improvements to the public department and optimized the user experience creating positive insights.<br>
 
 ### Mobile Apps
-2. <a href="https://github.com/gabriel-estevam/react-native-projeto-tasks" target="_blank">TO-DO List</a>
+2. <a href="https://github.com/gabriel-estevamm/react-native-projeto-tasks" target="_blank">TO-DO List</a>
 <br>TO-DO List App is an application designed to enhance the organization of your tasks, making scheduling easier and more efficient.
 
 ## ⚡Languages & Frameworks
